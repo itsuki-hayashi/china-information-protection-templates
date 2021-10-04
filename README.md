@@ -1,2 +1,5 @@
-# china-information-protection-templates
-Email templates for requests based on Personal Information Protection Law of the People's Republic of China
+# 《中华人民共和国个人信息保护法》邮件请求模板
+
+一个简易的邮件模板，方便大家引用
+[《中华人民共和国个人信息保护法》](https://web.archive.org/web/20211001052602/http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml)
+条文的规定向个人信息处理者进行数据删除或数据查阅的请求。
